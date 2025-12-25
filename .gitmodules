@@ -1,0 +1,6 @@
+[submodule "jarvis_fe"]
+	path = jarvis_fe
+	url = git@github.com:nearz/jarvis_fe.git 
+[submodule "jarvis_be"]
+	path = jarvis_be
+	url =  git@github.com:nearz/jarvis_be.git
