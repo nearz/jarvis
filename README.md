@@ -9,6 +9,14 @@ Jarvis is intentionally scoped as a learning and experimentation platform rather
 
 **jarvis_fe** = Frontend - React, TypeScript.
 
+---
+
+## Demo 
+
+https://github.com/user-attachments/assets/ba484888-eb39-46bf-840a-25741afe800c
+
+---
+
 ## Motivation & Learning Goals
 
 Jarvis was started to better understand how real-world LLM chat systems work beyond simple request/response interactions.
