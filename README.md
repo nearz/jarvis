@@ -5,6 +5,9 @@ The project serves as a hands-on environment for learning **LangGraph**, while r
 
 Jarvis is intentionally scoped as a learning and experimentation platform rather than a polished consumer chat product.
 
+**jarvis_be** = Backend - FastAPI, Python, LangGraph
+**jarvis_fe** = Frontend - React, TypeScript.
+
 ## Motivation & Learning Goals
 
 Jarvis was started to better understand how real-world LLM chat systems work beyond simple request/response interactions.
